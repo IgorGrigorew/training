@@ -1,0 +1,7 @@
+{
+    "go.toolsEnvVars": {},
+    "explorer.fileNesting.enabled": true,
+    "search.useGlobalIgnoreFiles": true,
+    "go.inferGopath": true,
+    "go.installDependenciesWhenBuilding": true
+}

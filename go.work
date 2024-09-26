@@ -1,0 +1,8 @@
+go 1.21.1
+
+use (
+	.
+	..\step\less
+	..\test\lessoncodebasic
+	..\test\lessonyandex
+)
