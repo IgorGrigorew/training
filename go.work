@@ -5,4 +5,8 @@ use (
 	..\step\less
 	..\test\lessoncodebasic
 	..\test\lessonyandex
+	..\test\Stepik\join
+	
+	
+	
 )
